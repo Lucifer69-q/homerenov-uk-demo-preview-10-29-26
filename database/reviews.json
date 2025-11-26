@@ -1,0 +1,32 @@
+[
+  {
+    "id": "default-1",
+    "name": "Maria",
+    "location": "Rugby",
+    "rating": 5,
+    "text": "Very pleased with the result. They worked clean, finished on time and helped me choose the colors.",
+    "ip": "127.0.0.1",
+    "createdAt": "2025-11-26T16:24:47.926Z",
+    "approved": true
+  },
+  {
+    "id": "default-2",
+    "name": "Andrew",
+    "location": "Daventry",
+    "rating": 5,
+    "text": "Fast execution at a fair price. I recommend for painting and flooring installation.",
+    "ip": "127.0.0.1",
+    "createdAt": "2025-11-26T16:24:47.926Z",
+    "approved": true
+  },
+  {
+    "id": "default-3",
+    "name": "Joanna",
+    "location": "Coventry",
+    "rating": 5,
+    "text": "They completely redid the bathroom and we are very happy with the quality. Communication was very good from start to finish.",
+    "ip": "127.0.0.1",
+    "createdAt": "2025-11-26T16:24:47.926Z",
+    "approved": true
+  }
+]
